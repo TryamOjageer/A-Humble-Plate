@@ -1,5 +1,7 @@
 # A Humble Plate
 
+<p align="center"><img src="images/ahp_icon.png" width="180" alt="AHP: a chef's hat on a plate"></p>
+
 A relaxing 3D fine-dining plating game by [TryamOjageer](https://github.com/TryamOjageer). Arrange starters, mains and desserts, experiment with marble crockery, and refine your presentation through reviewer feedback.
 
 ## Play on Windows
