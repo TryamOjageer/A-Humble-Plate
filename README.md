@@ -23,6 +23,20 @@ A relaxing 3D fine-dining plating game by [TryamOjageer](https://github.com/Trya
 - Squeeze-bottle sauces, a blowtorch and presentation feedback.
 - Animated kitchen crew, three reviewers, and adjustable background music.
 
+## In-game gallery
+
+Example arrangements made with the current prototype's ingredients and plating controls.
+
+**Seared scallops, citrus and greens on charcoal marble**
+
+![Three seared scallops with a pea pod, beetroot, citrus gel and a lattice tuile on charcoal marble](images/scallop-composition.png)
+
+**Chocolate, pear and berries on ivory porcelain**
+
+![A chocolate quenelle with fanned pear, berries, vanilla cream, pistachio crumbs and a standing tuile on an ivory oval plate](images/dessert-composition.png)
+
+**The reviewers' table**
+
 ![The reviewers' dining room in the development prototype](images/reviewers.png)
 
 ## Feedback
