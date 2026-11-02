@@ -6,15 +6,17 @@ A relaxing 3D fine-dining plating game by [TryamOjageer](https://github.com/Trya
 
 ## Play on Windows
 
-**[Download A Humble Plate — Windows 64-bit ZIP](https://github.com/TryamOjageer/A-Humble-Plate/releases/download/v0.1.0/A-Humble-Plate-Windows-x64.zip)**
+**[Download A Humble Plate 0.1.1 — Windows 64-bit ZIP](https://github.com/TryamOjageer/A-Humble-Plate/releases/download/v0.1.1/A-Humble-Plate-Windows-x64.zip)**
 
-[Release notes and downloads](https://github.com/TryamOjageer/A-Humble-Plate/releases/tag/v0.1.0)
+[Release notes and downloads](https://github.com/TryamOjageer/A-Humble-Plate/releases/tag/v0.1.1)
 
 1. Download and extract the **entire ZIP**.
 2. Open the **A Humble Plate** folder.
 3. Double-click **A Humble Plate.exe**. Keep the `.pck` file beside it.
 
 **You do not need Godot or a separate installer.** Playing instructions and credits are included in the ZIP.
+
+Version **0.1.1** fixes prawn bodies, tails and torch contact, improves mushroom cut textures, and removes **Chef's example** so players develop their own arrangements.
 
 ## About the prototype
 
