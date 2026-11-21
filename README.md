@@ -6,9 +6,9 @@ A relaxing 3D fine-dining plating game by [TryamOjageer](https://github.com/Trya
 
 ## Play on Windows
 
-**[Download A Humble Plate 0.1.1 — Windows 64-bit ZIP](https://github.com/TryamOjageer/A-Humble-Plate/releases/download/v0.1.1/A-Humble-Plate-Windows-x64.zip)**
+**[Download A Humble Plate 0.3.1 — Windows 64-bit ZIP](https://github.com/TryamOjageer/A-Humble-Plate/releases/download/v0.3.1/A-Humble-Plate-Windows-x64.zip)**
 
-[Release notes and downloads](https://github.com/TryamOjageer/A-Humble-Plate/releases/tag/v0.1.1)
+[Release notes and downloads](https://github.com/TryamOjageer/A-Humble-Plate/releases/tag/v0.3.1)
 
 1. Download and extract the **entire ZIP**.
 2. Open the **A Humble Plate** folder.
@@ -16,13 +16,18 @@ A relaxing 3D fine-dining plating game by [TryamOjageer](https://github.com/Trya
 
 **You do not need Godot or a separate installer.** Playing instructions and credits are included in the ZIP.
 
-Version **0.1.1** fixes prawn bodies, tails and torch contact, improves mushroom cut textures, and removes **Chef's example** so players develop their own arrangements.
+Version **0.3.1** adds guest table orders, a walkable restaurant, a six-stage service journey and 180 dish briefs. Pick food directly from ready worktop plates in every mode. The source plates stay put, with no ingredient preparation requests, waiting periods or flying ingredient trays.
+
+To try guest service, open **Guest orders**, seat guests and select a table's ticket. Plate its requested components in your own style, then send the finished dish to that table. The server delivers it and the guests begin eating. Partly plated orders stay saved when switching tables; practice keeps all dishes available.
 
 ## About the prototype
 
-- Starters, mains and desserts with ingredient trays and prepared portions.
+- 180 starter, main and dessert briefs, with meat, seafood, vegetarian, vegan and Halaal menu choices.
+- Three guest tables with independent three-course orders, presentation feedback and saved plate drafts.
+- Walkable kitchen and dining room, seated guests and a server who delivers finished meals.
+- Six optional three-course service stages with rising presentation goals and saved personal bests.
 - Marble crockery, food positioning and a camera you can orbit and zoom.
-- Squeeze-bottle sauces, a blowtorch and presentation feedback.
+- Solid portion resizing, prepared cuts, squeeze-bottle sauces with 2/4/6/8 mm nozzles and a blowtorch.
 - Animated kitchen crew, three reviewers, and adjustable background music.
 
 ## In-game gallery
